@@ -1,0 +1,28 @@
+# Autotools
+aclocal.m4
+autom4te.cache/
+compile
+config.h
+config.log
+config.status
+configure
+depcomp
+install-sh
+libtool
+ltmain.sh
+missing
+stamp-h1
+Makefile
+Makefile.in
+
+# Build output
+bin/
+*.exe
+*.o
+*.lo
+*.la
+
+# Editor
+*.swp
+*~
+

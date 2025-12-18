@@ -1,0 +1,11 @@
+* text=auto eol=lf
+
+*.ac text eol=lf
+*.am text eol=lf
+*.m4 text eol=lf
+*.sh text eol=lf
+Makefile.in text eol=lf
+configure text eol=lf
+
+ThirdParty/* linguist-vendored
+*.h linguist-language=C++
